@@ -110,7 +110,9 @@ Appendix:
 
 
 Figure 1:
-![Figure 1](images/Figure 1 GBBA.png)
+
+
+<img src="images/Figure 1 GBBA.png" alt="Logo" width="200" />
 
 
 Figure 2:
