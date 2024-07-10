@@ -110,7 +110,7 @@ Appendix:
 
 
 Figure 1:
-
+![Figure 1](images/Figure 1 GBBA.png)
 
 
 Figure 2:
