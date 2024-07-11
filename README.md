@@ -112,18 +112,26 @@ Appendix:
 Figure 1:
 
 
-<img src="images/Figure 1 GBBA.png" alt="Logo" width="200" />
+<img src="images/Figure 1 GBBA.png" alt="Logo" width="300" />
 
 
 Figure 2:
 
+<img src="images/Figure 2 GBBA.png" alt="Logo" width="300" />
+
 Figure 3:
 
+<img src="images/Figure 3 GBBA.png" alt="Logo" width="300" />
+
 Figure 4:
+
+<img src="images/Figure 4 GBBA.png" alt="Logo" width="300" />
 
 
 
 Figure 5:
+
+<img src="images/Figure 5 GBBA.png" alt="Logo" width="300" />
 
 
 
